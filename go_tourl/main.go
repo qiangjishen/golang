@@ -13,7 +13,6 @@ func main() {
 	})
 
 	//测试
-	//行不行啊
 	aaa.AddPeter()
 
 	app.Listen(":3000")
